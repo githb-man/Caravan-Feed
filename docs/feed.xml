@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Caravan</title>
     <link>https://caravanmagazine.in/</link>
+    <atom:link href="https://githb-man.github.io/Caravan-Feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial feed generated from caravanmagazine.in (no official RSS is published by the site)</description>
-    <lastBuildDate>Wed, 22 Jul 2026 20:50:05 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jul 2026 21:01:40 +0000</lastBuildDate>
     <item>
       <title>Environment / Reportage How the Modi and Nitish governments put Adani Power before the people of Bihar Sagar</title>
       <link>https://caravanmagazine.in/environment/modi-nitish-governments-adani-power-pirpainti-bihar</link>
       <guid isPermaLink="true">https://caravanmagazine.in/environment/modi-nitish-governments-adani-power-pirpainti-bihar</guid>
       <category>Environment</category>
+      <description>Environment / Reportage How the Modi and Nitish governments put Adani Power before the people of Bihar Sagar</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -17,6 +20,7 @@
       <link>https://caravanmagazine.in/politics/unveiling-the-rss</link>
       <guid isPermaLink="true">https://caravanmagazine.in/politics/unveiling-the-rss</guid>
       <category>Politics</category>
+      <description>Politics / Essay Exposing the largest far-right network in history Felix Pal</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -24,6 +28,7 @@
       <link>https://caravanmagazine.in/education/what-census-surveys-and-national-education-policies-get-wrong-about-india's-languages</link>
       <guid isPermaLink="true">https://caravanmagazine.in/education/what-census-surveys-and-national-education-policies-get-wrong-about-india's-languages</guid>
       <category>Education</category>
+      <description>Education / Essay What census surveys and national education policies get wrong about India’s languages Rama Kant Agnihotri</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -31,6 +36,7 @@
       <link>https://caravanmagazine.in/conflict/gaza-liberalism-west</link>
       <guid isPermaLink="true">https://caravanmagazine.in/conflict/gaza-liberalism-west</guid>
       <category>Conflict</category>
+      <description>Politics / Essay What Gaza reveals about the ideology that shaped the modern West Raghu Kesavan</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -38,6 +44,7 @@
       <link>https://caravanmagazine.in/media/norwegian-journalist-helle-lyng-on-why-it-was-important-to-question-narendra-modi</link>
       <guid isPermaLink="true">https://caravanmagazine.in/media/norwegian-journalist-helle-lyng-on-why-it-was-important-to-question-narendra-modi</guid>
       <category>Media</category>
+      <description>Media / Interview A Norwegian journalist on why it was important to question Narendra Modi Gurpreet Singh</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -45,6 +52,7 @@
       <link>https://caravanmagazine.in/politics/india-middle-east-policy-modi</link>
       <guid isPermaLink="true">https://caravanmagazine.in/politics/india-middle-east-policy-modi</guid>
       <category>Politics</category>
+      <description>Politics / Commentary How New Delhi made itself irrelevant in the region’s most consequential crisis Sushant Singh</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -52,6 +60,7 @@
       <link>https://caravanmagazine.in/law/fcra-ngo-modi-centre-policy-research-rss-greenpeace-amnesty-oxfam-22000</link>
       <guid isPermaLink="true">https://caravanmagazine.in/law/fcra-ngo-modi-centre-policy-research-rss-greenpeace-amnesty-oxfam-22000</guid>
       <category>Law</category>
+      <description>Law / Commentary The FCRA and the crumbling of the development sector Puja Sen</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -59,6 +68,7 @@
       <link>https://caravanmagazine.in/security/sindoor-china-pakistan-not-standalone-threat-india</link>
       <guid isPermaLink="true">https://caravanmagazine.in/security/sindoor-china-pakistan-not-standalone-threat-india</guid>
       <category>Security</category>
+      <description>Security / Commentary The Dragon in the Room: Why Pakistan is no longer a standalone threat Sushant Singh</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -66,6 +76,7 @@
       <link>https://caravanmagazine.in/politics/american-sangh-affair-tulsi-gabbard</link>
       <guid isPermaLink="true">https://caravanmagazine.in/politics/american-sangh-affair-tulsi-gabbard</guid>
       <category>Politics</category>
+      <description>Politics / Reportage The American Sangh’s affair with Tulsi Gabbard Pieter Friedrich</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -73,6 +84,7 @@
       <link>https://caravanmagazine.in/politics/women-reservation-delimitation-ploy-transparent</link>
       <guid isPermaLink="true">https://caravanmagazine.in/politics/women-reservation-delimitation-ploy-transparent</guid>
       <category>Politics</category>
+      <description>Politics / Commentary The women’s reservation bill was an all-too-transparent ploy Hartosh Singh Bal</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -80,6 +92,7 @@
       <link>https://caravanmagazine.in/reportage/shattered-dome</link>
       <guid isPermaLink="true">https://caravanmagazine.in/reportage/shattered-dome</guid>
       <category>Reportage</category>
+      <description>Conflict / Reportage The story of the Gandhis’ biggest mistake, and how it still haunts Punjab Hartosh Singh Bal</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -87,6 +100,7 @@
       <link>https://caravanmagazine.in/sports/chess-and-the-idea-of-luck</link>
       <guid isPermaLink="true">https://caravanmagazine.in/sports/chess-and-the-idea-of-luck</guid>
       <category>Sports</category>
+      <description>Sports / Excerpt On chess and the notion of luck In The Price of Genius, published by Juggarnaut, Binit Priyaranjan looks at Indian chessplayers at the forefront of the chess boom today, Binit Priyaranjan</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -94,6 +108,7 @@
       <link>https://caravanmagazine.in/history/periyar-ambedkar-poona-pact</link>
       <guid isPermaLink="true">https://caravanmagazine.in/history/periyar-ambedkar-poona-pact</guid>
       <category>History</category>
+      <description>History / Excerpt Periyar, Ambedkar and the Poona Pact A Thiruneelakandan</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -101,6 +116,7 @@
       <link>https://caravanmagazine.in/law-and-order/cell-and-the-soul-prison-memoir-anand-teltumbde</link>
       <guid isPermaLink="true">https://caravanmagazine.in/law-and-order/cell-and-the-soul-prison-memoir-anand-teltumbde</guid>
       <category>Law And Order</category>
+      <description>Law and Order / Excerpt “Punitive actions against prisoners are seen as a demonstration of administrative control” Anand Teltumbde</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -108,6 +124,7 @@
       <link>https://caravanmagazine.in/crime/italy-art-forgeries-fake-theft-archaeological-antiquities-pompeii-selinunte-morgantina-aidone</link>
       <guid isPermaLink="true">https://caravanmagazine.in/crime/italy-art-forgeries-fake-theft-archaeological-antiquities-pompeii-selinunte-morgantina-aidone</guid>
       <category>Crime</category>
+      <description>Crime / Photo Essay Italy’s fight against trafficking in art and antiquities Matteo Bastianelli</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -115,6 +132,7 @@
       <link>https://caravanmagazine.in/film/srfti-film-kolkata-censorship</link>
       <guid isPermaLink="true">https://caravanmagazine.in/film/srfti-film-kolkata-censorship</guid>
       <category>Film</category>
+      <description>Film / Photo Essay A film institute in an era of censorship</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -122,6 +140,7 @@
       <link>https://caravanmagazine.in/communities/bhagalpur-riots-cauliflower-family-history</link>
       <guid isPermaLink="true">https://caravanmagazine.in/communities/bhagalpur-riots-cauliflower-family-history</guid>
       <category>Communities</category>
+      <description>Communities / Photo Essay A family’s history in response to a call for violence Zeeshan Hasan Akhtar</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -129,6 +148,7 @@
       <link>https://caravanmagazine.in/environment/uranium-mining-west-khasi-hills</link>
       <guid isPermaLink="true">https://caravanmagazine.in/environment/uranium-mining-west-khasi-hills</guid>
       <category>Environment</category>
+      <description>Environment / Photo Essay The civic struggle against uranium mining in the West Khasi Hills Tarun Bhartiya</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -136,6 +156,7 @@
       <link>https://caravanmagazine.in/arts/sign-makers-create-enduring-language-of-indian-streets</link>
       <guid isPermaLink="true">https://caravanmagazine.in/arts/sign-makers-create-enduring-language-of-indian-streets</guid>
       <category>Arts</category>
+      <description>Arts / Photo Essay The enduring language of Indian streets Pooja Saxena</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -143,6 +164,7 @@
       <link>https://caravanmagazine.in/books/amoral-technocracy-powering-modi-india-nandan-nilekani</link>
       <guid isPermaLink="true">https://caravanmagazine.in/books/amoral-technocracy-powering-modi-india-nandan-nilekani</guid>
       <category>Books</category>
+      <description>Science And Technology / Books How an amoral technocracy powers Modi’s India Mila T Samdub</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -150,6 +172,7 @@
       <link>https://caravanmagazine.in/religion/how-upper-castes-invented-hindu-majority</link>
       <guid isPermaLink="true">https://caravanmagazine.in/religion/how-upper-castes-invented-hindu-majority</guid>
       <category>Religion</category>
+      <description>Religion / Essay How upper castes invented a Hindu majority Divya Dwivedi , Shaj Mohan , J Reghu</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -157,6 +180,7 @@
       <link>https://caravanmagazine.in/politics/adityanath-reign-of-terror</link>
       <guid isPermaLink="true">https://caravanmagazine.in/politics/adityanath-reign-of-terror</guid>
       <category>Politics</category>
+      <description>Politics / Reportage Adityanath’s reign of terror Dhirendra K Jha</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -164,6 +188,7 @@
       <link>https://caravanmagazine.in/reportage/falling-man</link>
       <guid isPermaLink="true">https://caravanmagazine.in/reportage/falling-man</guid>
       <category>Reportage</category>
+      <description>Politics / Reportage Manmohan Singh at the centre of the storm Vinod K Jose</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -171,6 +196,7 @@
       <link>https://caravanmagazine.in/reportage/sins-commission</link>
       <guid isPermaLink="true">https://caravanmagazine.in/reportage/sins-commission</guid>
       <category>Reportage</category>
+      <description>Politics / Reportage How nine official inquiries obscured the truth of the 1984 anti-Sikh violence Hartosh Singh Bal</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -178,6 +204,7 @@
       <link>https://caravanmagazine.in/communities/food-in-dalit-and-adivasi-writing</link>
       <guid isPermaLink="true">https://caravanmagazine.in/communities/food-in-dalit-and-adivasi-writing</guid>
       <category>Communities</category>
+      <description>Communities / Books Food in Dalit and Adivasi Writing Manasvi Pote</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -185,6 +212,7 @@
       <link>https://caravanmagazine.in/literature/writing-aftermath-1948-police-action</link>
       <guid isPermaLink="true">https://caravanmagazine.in/literature/writing-aftermath-1948-police-action</guid>
       <category>Literature</category>
+      <description>Literature / Books Writing in the aftermath of the Police Action in Hyderabad Nandhanaa PJ</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -192,6 +220,7 @@
       <link>https://caravanmagazine.in/books/scenes-modern-literature-brahminism</link>
       <guid isPermaLink="true">https://caravanmagazine.in/books/scenes-modern-literature-brahminism</guid>
       <category>Books</category>
+      <description>Caste / Books Scenes from the modern literature of Brahminism Ashik Kahina</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -199,6 +228,7 @@
       <link>https://caravanmagazine.in/communities/interfaith-romance-fiction-in-the-era-of-love-jihad</link>
       <guid isPermaLink="true">https://caravanmagazine.in/communities/interfaith-romance-fiction-in-the-era-of-love-jihad</guid>
       <category>Communities</category>
+      <description>Communities / Books Interfaith romance fiction in the era of love jihad Maya Palit</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -206,6 +236,7 @@
       <link>https://caravanmagazine.in/literature/breaking-the-mould</link>
       <guid isPermaLink="true">https://caravanmagazine.in/literature/breaking-the-mould</guid>
       <category>Literature</category>
+      <description>Literature / Books Masculinity and the family in contemporary Indian fiction Areeb Ahmad</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -213,6 +244,7 @@
       <link>https://caravanmagazine.in/conflict/changing-contours-india-israel</link>
       <guid isPermaLink="true">https://caravanmagazine.in/conflict/changing-contours-india-israel</guid>
       <category>Conflict</category>
+      <description>Conflict / Books The changing contours of India’s relationship with Israel Achin Vanaik</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
     <item>
@@ -220,6 +252,7 @@
       <link>https://caravanmagazine.in/literature/caste-campus-novels</link>
       <guid isPermaLink="true">https://caravanmagazine.in/literature/caste-campus-novels</guid>
       <category>Literature</category>
+      <description>Literature / Books Caste in the campus novel Diya Isha</description>
       <pubDate>Wed, 22 Jul 2026 20:50:05 +0000</pubDate>
     </item>
   </channel>
