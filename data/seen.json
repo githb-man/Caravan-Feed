@@ -1,34 +1,4 @@
 {
-  "https://caravanmagazine.in/conflict/senseless-cycle-naga-kuki-violence-manipur": {
-    "title": "Conflict / Reportage The senseless cycle of Naga–Kuki violence in Manipur Greeshma Kuthar",
-    "category": "Conflict",
-    "first_seen": "2026-09-01T05:08:20.176078+00:00"
-  },
-  "https://caravanmagazine.in/health/neet-nta-abolish-fix-leak-anitha-tamil-nadu": {
-    "title": "Health / Reportage Fixing NEET fixes nothing, abolishing it does Sujatha Sivagnanam",
-    "category": "Health",
-    "first_seen": "2026-09-01T05:08:20.176078+00:00"
-  },
-  "https://caravanmagazine.in/technology/ai-empire-karen-hao-data-centre-extraction-environmental-costs-ai-accountability": {
-    "title": "Technology / Interview How the imperial myth of AI’s inevitability fuels resource extraction Ajeet Mahale",
-    "category": "Technology",
-    "first_seen": "2026-09-01T05:08:20.176078+00:00"
-  },
-  "https://caravanmagazine.in/conflict/joe-sacco-once-and-future-riot": {
-    "title": "Conflict / Excerpt The aftermath of the Muzaffarnagar riots Joe Sacco",
-    "category": "Conflict",
-    "first_seen": "2026-09-01T05:08:20.176078+00:00"
-  },
-  "https://caravanmagazine.in/communities/a-personal-archive-of-longing-that-traces-a-life-across-lost-cities": {
-    "title": "Communities / Photo Essay A personal archive of longing across lost cities",
-    "category": "Communities",
-    "first_seen": "2026-09-01T05:08:20.176078+00:00"
-  },
-  "https://caravanmagazine.in/reportage/rss-30": {
-    "title": "Politics / Profile Mohan Bhagwat brings a resurgent Sangh to the cusp of political power Dinesh Narayanan",
-    "category": "Reportage",
-    "first_seen": "2026-09-01T05:08:20.176078+00:00"
-  },
   "https://caravanmagazine.in/politics/two-men-documenting-and-archiving-the-students'-protests-doxxed-and-threatened-with-police-action": {
     "title": "Politics / Reportage Two Men Documenting and Archiving the Students’ Protests Doxxed and Threatened with Police Action Nikita Saxena",
     "category": "Politics",
@@ -163,5 +133,35 @@
     "title": "Religion / Reportage Amritanandamayi’s empire of secrets Aathira Konikkara",
     "category": "Religion",
     "first_seen": "2026-09-28T13:55:15.012835+00:00"
+  },
+  "https://caravanmagazine.in/labour/workers-strike-wave-india": {
+    "title": "Labour / Reportage The historic wave of labour unrest that swept India Zaen Alkazi",
+    "category": "Labour",
+    "first_seen": "2026-10-01T08:56:37.104453+00:00"
+  },
+  "https://caravanmagazine.in/politics/a-stalwart-of-up-politics-reflects-on-his-journey-and-future-prospects": {
+    "title": "Politics / Interview A stalwart of UP politics reflects on his journey and future prospects Sunil Kashyap",
+    "category": "Politics",
+    "first_seen": "2026-10-01T08:56:37.104453+00:00"
+  },
+  "https://caravanmagazine.in/religion/baps-modi-cronyism": {
+    "title": "Religion / Essay The spiritual cronyism of Narendra Modi and the BAPS Sushant Singh",
+    "category": "Religion",
+    "first_seen": "2026-10-01T08:56:37.104453+00:00"
+  },
+  "https://caravanmagazine.in/literature/how-to-write-a-dictator": {
+    "title": "Literature / Books The strongman in contemporary fiction Maya Palit",
+    "category": "Literature",
+    "first_seen": "2026-10-01T08:56:37.104453+00:00"
+  },
+  "https://caravanmagazine.in/media/trump-following-modi-playbook-dealing-media": {
+    "title": "Media / Commentary How Trump is following Modi’s playbook on dealing with the media Daniel Block",
+    "category": "Media",
+    "first_seen": "2026-10-01T08:56:37.104453+00:00"
+  },
+  "https://caravanmagazine.in/politics/prashant0kishor-trojan-horse-theory-of-power": {
+    "title": "Politics / Essay Prashant Kishor’s Theory of Power Cannot Be Trusted Amogh Dhar Sharma",
+    "category": "Politics",
+    "first_seen": "2026-10-01T08:56:37.104453+00:00"
   }
 }
