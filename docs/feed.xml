@@ -6,7 +6,7 @@
     <atom:link href="https://githb-man.github.io/Caravan-Feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Unofficial feed generated from caravanmagazine.in (no official RSS is published by the site)</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:37:39 +0000</lastBuildDate>
     <item>
       <title>Government / Reportage The taming of the Election Commission of India Eram Agha</title>
       <link>https://caravanmagazine.in/government/taming-election-commission</link>
@@ -254,14 +254,6 @@
       <category>Politics</category>
       <description>Politics / Essay Prashant Kishor’s Theory of Power Cannot Be Trusted Amogh Dhar Sharma</description>
       <pubDate>Thu, 01 Oct 2026 08:56:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Religion / Reportage Amritanandamayi’s empire of secrets Aathira Konikkara</title>
-      <link>https://caravanmagazine.in/religion/amritanandamayi-empire-secrets</link>
-      <guid isPermaLink="true">https://caravanmagazine.in/religion/amritanandamayi-empire-secrets</guid>
-      <category>Religion</category>
-      <description>Religion / Reportage Amritanandamayi’s empire of secrets Aathira Konikkara</description>
-      <pubDate>Mon, 28 Sep 2026 13:55:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
